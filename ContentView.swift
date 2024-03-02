@@ -15,6 +15,7 @@ struct ContentView: View {
             OnOffToggle()
             ColorSelector()
             BrightnessSlider()
+            TemperatureSlider()
             Spacer()
         }
     }
